@@ -28,7 +28,15 @@ Now it's intalled, go to apperance -> widgets and you should see a fancy new wid
 1. admin.png: The hierarchical post types.
 2. front-end.png: The result.
 
+== Frequently Asked Questions ==
+
+Is it simple? Yes it is.
+
 == Changelog ==
 
 = 1.0 =
 * This is the first version - it doesn't do much in terms of customisation, yet.
+
+== Upgrade Notice ==
+
+None as yet.
